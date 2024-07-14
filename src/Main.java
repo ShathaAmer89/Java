@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import javax.swing.*;
 
 public class Main {
@@ -28,5 +29,10 @@ public class Main {
        }
        JOptionPane.showMessageDialog(null, result);
        
+=======
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+>>>>>>> origin/master
     }
 }

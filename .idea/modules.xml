@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/javaProsjekt.iml" filepath="$PROJECT_DIR$/javaProsjekt.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Variabler.iml" filepath="$PROJECT_DIR$/Variabler.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
